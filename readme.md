@@ -115,6 +115,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - Toasts with icons and color.
 - [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 - [PodSlider](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
+- [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -245,6 +246,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 - [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
+- [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
 
 
 ### Debugging Tools
@@ -260,6 +262,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Chat & Messaging
 
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
+- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
 
 #### Custom Dialog
 
@@ -294,6 +297,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+- [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 
 ## Resources
 
@@ -313,10 +317,10 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
 - [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
+- [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
 
 ### More lists of libraries
 - [The Android Arsenal](http://android-arsenal.com) - Large list of android libraries
-- [DevAppsDirect - Demo Market](https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect) - App that demonstrates different libraries.
 - [Square libraries](http://square.github.io/#android) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
 
